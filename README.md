@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Youth Medical Association NYC
 
 You can use the [editor on GitHub](https://github.com/officialyma/officialyma.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
