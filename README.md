@@ -1,8 +1,10 @@
 ## Youth Medical Association NYC
 
-You can use the [editor on GitHub](https://github.com/officialyma/officialyma.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Mission Statement
+	Youth Medical Association is a non-profit organization, founded in New York City by high schoolers at Bronx Science. We aim to support those who are passionate in pursuing a career in the medical field. Unfortunately, there are many individuals across the city who have a desire to pursue a career in the medical field, but they may not have the proper opportunities and guidance to prepare to pursue such. They may not be in a school that has many guidance or individuals interested in the medical field, and thus, making it difficult for them to understand and try pursuing the medical field. However, with the efforts and collaboration among students and organizations/institutions, we want to bring various opportunities and guidance to students. We want to offer internships, volunteering opportunities, shadowing sessions, guidance, and presentations regarding a plethora of topics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
@@ -27,11 +29,3 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/officialyma/officialyma.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
